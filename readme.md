@@ -1,1 +1,1 @@
-##Este proyecto es para mostrar una imagen del edificio D, con mensajes y un formulario para ##puntuar la foto
+## Este proyecto es para mostrar una imagen del edificio D, con mensajes y un formulario para ## puntuar la foto, y con el segundo archivo HTML eliminado
